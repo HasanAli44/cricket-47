@@ -1,0 +1,6 @@
+.newsletter-bg {
+  background-image: url(../../../public/img/bg-shadow.png);
+  position: relative;
+  display: flex;
+  height: 50vh;
+}
